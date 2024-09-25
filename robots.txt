@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ounthmat.github.io/sitemap.ounthmat.gz
+Sitemap: https://ounthmat.github.io/app/sitemap.ounthmat.gz
+Sitemap: https://ounthmat.github.io/assets/sitemap.ounthmat.gz
+Sitemap: https://ounthmat.github.io/css/sitemap.ounthmat.gz
+Sitemap: https://ounthmat.github.io/data/sitemap.ounthmat.gz
+Sitemap: https://ounthmat.github.io/includes/sitemap.ounthmat.gz
+Sitemap: https://ounthmat.github.io/item/sitemap.ounthmat.gz
+Sitemap: https://ounthmat.github.io/src/sitemap.ounthmat.gz
